@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zahks
-- 👀 I’m interested in Networking and systems 
+- 👀 I’m interested in Networking and Systems 
 - 🌱 I’m currently learning Cybersecurity to apply in my field of interest 
 - 💞️ I’m looking to collaborate on Cybersecurity projects 
 - 📫 How to reach me zahksflorin@gmail.com
