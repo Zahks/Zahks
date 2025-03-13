@@ -25,6 +25,7 @@ Passionné par la gestion des risques et la conformité, je cherche à approfond
     <img src="https://img.shields.io/badge/-Wazuh-1A2C34?&style=for-the-badge&logo=Wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Centreon-0094C6?&style=for-the-badge&logo=Centreon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nagios-CC0000?&style=for-the-badge&logo=Nagios&logoColor=white" />
 </div>
 
 ### Gouvernance, Risques & Conformité
@@ -38,8 +39,27 @@ Passionné par la gestion des risques et la conformité, je cherche à approfond
 ### Réseaux & Sécurité
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Firewalling_(PfSense,_Cisco_ASA)-FF0000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Firewalling_(PfSense,_Cisco_ASA,_Fortinet)-FF0000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVPN-32CD32?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+</div>
+
+### Outils et Normes
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nessus-00A4CE?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-003366?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+</div>
+
+### Langages de programmation
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU-Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-C/C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 </div>
 
 ## Certifications
@@ -58,3 +78,4 @@ Passionné par la gestion des risques et la conformité, je cherche à approfond
 ---
 
 📢 **Je partagerai très prochainement mes projets détaillés !** 🚀
+
