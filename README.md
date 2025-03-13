@@ -1,9 +1,9 @@
-# Bonjour, je suis Florin Awountsac Zahoung
+# Hello !, Je m'appelle Florin Awountsac et bienvenue sur mon git 😜
 <a href="https://linkedin.com/in/florin-awountsac-zahoung"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## À propos de moi
 
-Issu d'un parcours en **administration systèmes et réseaux**, j’ai développé une expertise dans la gestion et la sécurisation des infrastructures IT. Aujourd’hui, je me spécialise en **cybersécurité**, avec un focus sur la **supervision, la gouvernance et l’audit** afin d’appliquer ces compétences à mon domaine de prédilection.
+Issu d'un parcours en **administration systèmes et réseaux**, j’ai développé des compétences dans la gestion et la sécurisation des infrastructures IT. Aujourd’hui, je me spécialise en **cybersécurité**, avec un focus sur la **supervision, la gouvernance et l’audit** afin d’appliquer ces compétences à mon domaine de prédilection.
 
 Passionné par la gestion des risques et la conformité, je cherche à approfondir mes connaissances en **SIEM, gestion des incidents, et analyse des menaces**, tout en assurant la conformité des systèmes aux référentiels de sécurité.
 
