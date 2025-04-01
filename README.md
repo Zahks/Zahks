@@ -7,17 +7,7 @@ Issu d'un parcours en **administration systèmes et réseaux**, j’ai développ
 
 Passionné par la gestion des risques et la conformité, je cherche à approfondir mes connaissances en **SIEM, gestion des incidents, et analyse des menaces**, tout en assurant la conformité des systèmes aux référentiels de sécurité.
 
-## Compétences
-
-| Compétence                                   | Projet associé              |
-|---------------------------------------------|-----------------------------|
-| Supervision et SIEM (Splunk, Centreon, Wazuh) | <a href="https://google.com">Supervision avec Centreon</a>|
-| Gestion des risques et conformité (ISO 27001, EBIOS RM) | <a href="https://google.com">Évaluation des risques</a>|
-| Gouvernance et Audit (PSSI, NIST, ITIL)     | <a href="https://google.com">Audit des politiques de sécurité</a>|
-| Analyse des logs et gestion des incidents   | <a href="https://google.com">SOC Alert Handling</a>|
-| Sécurisation des infrastructures et réseaux | <a href="https://google.com">Sécurisation des accès et VPN</a>|
-
-## Outils
+## Compétences et Outils
 
 ### SIEM & Supervision
 <div>
